@@ -1,3 +1,3 @@
 # spmsk_data
 ระบบแสดงข้อมูลสถิตินักเรียน
-igdata.spm-sk.go.th
+https://bigdata.spm-sk.go.th
